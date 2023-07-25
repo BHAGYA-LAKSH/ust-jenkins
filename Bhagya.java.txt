@@ -1,0 +1,13 @@
+public class Bhagya
+
+{
+
+public static void main(String []jags)
+
+{
+
+System.out.println("Hello world from Bhagyalakshmi");
+
+}
+
+}
